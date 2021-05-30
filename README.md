@@ -23,16 +23,16 @@
 
 - Just, Clone this repository -
 ```
-$ git clone https://github.com/getgaming/zphisher
+$ git clone https://github.com/getgaming/gphisher
 ```
 
-- Change to cloned directory and run `zphisher.sh` -
+- Change to cloned directory and run `gphisher.sh` -
 ```
-$ cd zphisher
-$ bash zphisher.sh
+$ cd gphisher
+$ bash gphisher.sh
 ```
 
-- On first launch, It'll install the dependencies and that's it. `Zphisher` is installed.
+- On first launch, It'll install the dependencies and that's it. `Gphisher` is installed.
 
 > Supported Platform : **`Termux`**, **`Ubuntu/Debian/Kali`**, **`Arch Linux/Manjaro`**, **`Fedora`**
 
