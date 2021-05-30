@@ -1,5 +1,5 @@
 FROM debian:10
-LABEL MAINTAINER="https://github.com/htr-tech/zphisher"
+LABEL MAINTAINER="https://github.com/getgaming/zphisher"
 
 WORKDIR zphisher/
 ADD . /zphisher
