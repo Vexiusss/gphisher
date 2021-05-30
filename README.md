@@ -44,5 +44,5 @@ $ bash zphisher.sh
 
 ### Find Me on :
 <p align="left">
-  <a href="https://github.com/getgaming" target="_blank"></a>
+  <a href="https://github.com/getgaming"></a>
 </p>
