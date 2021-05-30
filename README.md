@@ -1,8 +1,8 @@
-<!-- Zphisher -->
+<!-- Gphisher -->
 
-<p align="center">
-  <img src=".imgs/logo.png">
-</p>
+<h1 align="center">
+  gPhisher
+</h1>
 
 <p align="center">A beginners friendly, Automated phishing tool with 30+ templates.</p>
 
