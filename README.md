@@ -42,7 +42,3 @@ $ bash zphisher.sh
 
 - [**GetGaming**](https://github.com/getgaming)
 
-### Find Me on :
-<p align="left">
-  <a href="https://github.com/getgaming"></a>
-</p>
