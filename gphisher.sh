@@ -1,6 +1,6 @@
 #!/bin/bash
 
-##   Zphisher 	: 	Automated Phishing Tool
+##   Gphisher 	: 	Automated Phishing Tool
 ##   Author 	: 	GetGaming
 ##   Version 	: 	2.1
 ##   Github 	: 	https://github.com/getgaming
@@ -138,13 +138,13 @@ banner() {
 	cat <<- EOF
 		${ORANGE}
 		${ORANGE} ______      _     _     _               
-		${ORANGE}|___  /     | |   (_)   | |              
-		${ORANGE}   / / _ __ | |__  _ ___| |__   ___ _ __ 
-		${ORANGE}  / / | '_ \| '_ \| / __| '_ \ / _ \ '__|
-		${ORANGE} / /__| |_) | | | | \__ \ | | |  __/ |   
-		${ORANGE}/_____| .__/|_| |_|_|___/_| |_|\___|_|   
-		${ORANGE}      | |                                
-		${ORANGE}      |_|                ${RED}Version : 2.1
+		${ORANGE}| _____|    | |   (_)   | |              
+		${ORANGE}|      _ __ | |__  _ ___| |__   ___ _ __ 
+		${ORANGE}|  |--|| '_ \| '_ \| / __| '_ \ / _ \ '__|
+		${ORANGE}|  |__|| |_) | | | | \__ \ | | |  __/ |   
+		${ORANGE}|_____|| | .__/|_| |_|_|___/_| |_|\___|_|   
+		${ORANGE}       | |                                
+		${ORANGE}       |_|                ${RED}Version : 2.1
 
 		${GREEN}[${WHITE}-${GREEN}]${CYAN} Tool Created by GetGaming${WHITE}
 	EOF
