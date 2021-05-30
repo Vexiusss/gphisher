@@ -1,7 +1,7 @@
 <!-- Gphisher -->
 
 <h1 align="center">
-  gPhisher
+  gphisher
 </h1>
 
 <p align="center">A beginners friendly, Automated phishing tool with 30+ templates!</p>
